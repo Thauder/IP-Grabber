@@ -1,0 +1,7 @@
+C:\Users\Probook\source\repos\IP Grabber\IP Grabber\bin\Debug\IP Grabber.exe.config
+C:\Users\Probook\source\repos\IP Grabber\IP Grabber\bin\Debug\IP Grabber.exe
+C:\Users\Probook\source\repos\IP Grabber\IP Grabber\bin\Debug\IP Grabber.pdb
+C:\Users\Probook\source\repos\IP Grabber\IP Grabber\obj\Debug\IP Grabber.csprojAssemblyReference.cache
+C:\Users\Probook\source\repos\IP Grabber\IP Grabber\obj\Debug\IP Grabber.csproj.CoreCompileInputs.cache
+C:\Users\Probook\source\repos\IP Grabber\IP Grabber\obj\Debug\IP Grabber.exe
+C:\Users\Probook\source\repos\IP Grabber\IP Grabber\obj\Debug\IP Grabber.pdb
